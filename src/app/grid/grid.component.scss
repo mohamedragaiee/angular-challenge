@@ -1,0 +1,15 @@
+table {
+    width: 100%;
+}
+th.mat-sort-header-sorted {
+    color: black;
+  }
+  .mat-form-field {
+    font-size: 14px;
+    width: 100%;
+  }
+  tr.mat-header-row {
+    color: rgba(0,0,0,.54);
+    background-color: #F7F7F7;
+    border-radius: calc(.25rem - 1px) calc(.25rem - 1px) 0 0;
+}
